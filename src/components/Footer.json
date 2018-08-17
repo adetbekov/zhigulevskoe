@@ -1,0 +1,38 @@
+{
+  "ru": {
+    "history": "История компании",
+    "historyShort": "История",
+    "brands": "Наши бренды",
+    "brandsShort": "Бренды",
+    "arr": "Все права защищены",
+    "main": "Главная",
+    "brand1": "Алматинское Жигулёвское",
+    "brand2": "Нефильтрованное",
+    "brand3": "Экспортное",
+    "brand4": "Ячменное",
+    "gallery": "Галерея",
+    "commercials": "Рекламные ролики",
+    "addvisuals": "Рекламные вижуалы",
+    "contacts": "Контакты",
+    "number": "По вопросам доставки",
+    "llp": "ТОО"
+  },
+  "kz": {
+    "history": "History of the company",
+    "historyShort": "История",
+    "brands": "Our brands",
+    "brandsShort": "Бренды",
+    "arr": "Барлық құқықтар сақталған",
+    "main": "Main",
+    "brand1": "Almaty Zhigulevskoe",
+    "brand2": "Nefiltrovannoe",
+    "brand3": "Exportnoe",
+    "brand4": "Yachmennoe",
+    "gallery": "Gallery",
+    "commercials": "Commercials",
+    "addvisuals": "Visual adds",
+    "contacts": "Contacts",
+    "number": "Delivery questions",
+    "llp": "ЖШС"
+  }
+}
